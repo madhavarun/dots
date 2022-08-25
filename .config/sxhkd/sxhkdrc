@@ -122,3 +122,20 @@ super + shift + e
 # Window Switcher
 super + Tab
 	rofi -show window
+
+
+### Function Keys
+XF86MonBrightnessDown
+	brightnessctl s 5%-
+
+XF86MonBrightnessUp
+	brightnessctl s 5%+
+
+XF86AudioPrev
+	playerctl previous
+
+XF86AudioNext
+	playerctl next
+
+XF86AudioPlay
+	playerctl play-pause
