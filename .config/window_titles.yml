@@ -1,0 +1,107 @@
+# the icon to fall back to, if there is no mapping
+default_icon: ﬓ
+# spaces to insert between the icon & window title
+padding: 1
+# auto-capitalize window titles, when they are not manually set.
+capitalize: true
+
+# seperators used to seperate native title and custom title
+native_title_separators:
+  start: "> "
+  end: ""
+
+workspace:
+# title defaults to Desktop
+  enabled: true
+  icon: ""
+  #title: ""
+
+mappings:
+# class is the WM_CLASS, which you can get via xprop.
+# title shows a custom title that you set
+# show_native_title shows the native title after title, unless title is specified
+# default title is native title
+### Terminals
+- class: Alacritty 
+  title: "Alacritty"
+  icon: 
+  show_native_title: true
+- class: org.wezfurlong.wezterm 
+  title: "WezTerm"
+  icon: 
+  show_native_title: true
+- class: Kitty
+  title: "Kitty"
+  icon: 
+  show_native_title: true
+
+### Browsers
+- class: Firefox
+  title: "Firefox"
+  icon: 
+- class: Chromium
+  title: "Chromium"
+  icon: 
+- class: Brave
+  title: "Brave"
+  icon: 
+
+### Text editors
+- class: Kate
+  title: "Kate"
+  icon: 
+- class: Mousepad
+  title: "Mousepad"
+  icon: 
+  show_native_title: true
+
+### Media
+- class: feh
+  title: ""
+  icon: 
+- class: Image Lounge
+  title: ""
+  icon: 
+
+### File Managers
+- class: Thunar
+  title: "Thunar"
+  icon: 
+  show_native_title: true
+- class: Pcmanfm
+  title: "PCManFM"
+  icon: 
+  show_native_title: true
+
+### Games
+- class: Minecraft* 1.19
+  title: "Minecraft"
+  icon: 
+- class: MultiMC
+  title: "MultiMC"
+  icon: 
+- class: Polymc
+  title: "PolyMC"
+  icon: 
+- class: Minecraft Launcher
+  title: "Minecraft Launcher"
+  icon: 
+- class: Steam
+  title: Steam
+  icon: 
+- class: Osu!
+  title: "Osu!"
+  icon: 
+
+### Password Managers
+- class: Keepassxc
+  title: "KeePassXC"
+  icon: 
+
+### Other
+- class: Discord
+  title: "Discord"
+  icon: ﭮ
+- class: Spotify
+  title: "Spotify"
+  icon: 阮
