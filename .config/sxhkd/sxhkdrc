@@ -6,14 +6,6 @@
 super + Return
 	alacritty
 
-# program launcher
-super + d
-	rofi -show drun
-
-# run commands
-super + shift + d
-	rofi -show run
-
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
@@ -87,10 +79,6 @@ super + ctrl + shift + {Left,Down,Up,Right}
 super + f
 	firefox
 
-# Powermenu
-super + shift + e
-	rofi -show powermenu -modi powermenu:~/.config/rofi/rofi-power-menu
-
 # Thunar
 super + e
 	thunar
@@ -118,3 +106,19 @@ super + shift + F10
 
 super + shift + F9
 	pactl set-sink-volume @DEFAULT_SINK@ 100%
+
+### Rofi keybinds
+super + d
+	rofi -show drun
+
+# run commands
+super + shift + d
+	rofi -show run
+
+# Powermenu
+super + shift + e
+	rofi -show powermenu -modi powermenu:~/.config/rofi/rofi-power-menu
+
+# Window Switcher
+super + Tab
+	rofi -show window
