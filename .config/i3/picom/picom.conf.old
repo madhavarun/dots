@@ -46,7 +46,7 @@ opacity-rule = [
 #           Corners             #
 #################################
 
-corner-radius = 13
+corner-radius = 6
 
 rounded-corners-exclude = [
 	"class_g = 'Dunst'",
@@ -69,7 +69,6 @@ rounded-corners-exclude = [
 #	"class_g = 'Dunst'",
 #	"class_g = 'Polybar'",
 #	"class_g = 'firefox'",
-#	"role = 'xborder'",
 #	"class_g = 'slop'"
 #];
 

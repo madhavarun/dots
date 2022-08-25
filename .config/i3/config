@@ -57,8 +57,8 @@ client.placeholder        #544158 #2A212C #F8F8F2 #544158 #282A36
 client.background         #F8F8F2
 
 # Configure border style <normal|1pixel|pixel xx|none|pixel>
-default_border pixel 2
-default_floating_border pixel 2
+default_border pixel 3
+default_floating_border pixel 3
 
 # Hide borders
 hide_edge_borders none
@@ -241,7 +241,8 @@ exec_always --no-startup-id $HOME/.config/i3/picom/picom.sh
 exec_always --no-startup-id systemctl --user restart dunst
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 #xborder for rounded corners on i3
-exec --no-startup-id $HOME/.config/i3/xborder/xborders --config $HOME/.config/i3/xborder/example_config.json
+exec_always --no-startup-id killall -q xborders && $HOME/.config/i3/xborder/xborders --border-rgba F5C2E7AA --border-width 4
+#--config $HOME/.config/i3/xborder/example_config.json
 # Feh Wallpaper
 exec_always --no-startup-id ~/.fehbg
 
