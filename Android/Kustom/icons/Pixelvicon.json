@@ -1,0 +1,2120 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M128 160h64v64h-64zM224 160h64v64h-64zM320 160h64v64h-64zM0 32v832h1024v-832zM960 800h-896v-448h896zM960 288h-896v-192h896z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 97,
+				"grid": 0,
+				"tags": [
+					""
+				],
+				"attrs": []
+			},
+			"attrs": [],
+			"properties": {
+				"id": 0,
+				"order": 4,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 97,
+				"name": "Browser 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 0
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 160h64v64h-64zM224 160h64v64h-64zM320 160h64v64h-64zM128 416h384v64h-384zM128 544h384v64h-384zM128 672h384v64h-384zM0 32v832h1024v-832zM960 800h-896v-448h896zM960 288h-896v-192h896zM896 416h-320v320h320zM832 672h-192v-192h192z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 98,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 1,
+				"order": 3,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 98,
+				"name": "Browser 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 1
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 160h64v64h-64zM224 160h64v64h-64zM320 160h64v64h-64zM128 416h640v64h-640zM128 544h768v64h-768zM128 672h384v64h-384zM0 32v832h1024v-832zM960 800h-896v-448h896zM960 288h-896v-192h896z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 99,
+				"grid": 0,
+				"tags": [
+					""
+				],
+				"attrs": []
+			},
+			"attrs": [],
+			"properties": {
+				"id": 2,
+				"order": 2,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 99,
+				"name": "Browser 3"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 2
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 160h64v64h-64zM224 160h64v64h-64zM320 160h64v64h-64zM128 416h512v64h-512zM128 544h512v64h-512zM128 672h768v64h-768zM0 32v832h1024v-832zM960 800h-896v-448h896zM960 288h-896v-192h896zM896 416h-192v192h192zM832 544h-64v-64h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 100,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 3,
+				"order": 1,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 100,
+				"name": "Browser 4"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 3
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 160h64v64h-64zM224 160h64v64h-64zM320 160h64v64h-64zM128 416h128v64h-128zM128 544h128v64h-128zM128 672h128v64h-128zM640 416h-192v192h192zM576 544h-64v-64h64zM896 416h-192v192h192zM832 544h-64v-64h64zM0 32v832h1024v-832zM64 800v-448h256v448zM512 800v-64h64v64zM768 800v-64h64v64zM960 800h-64v-128h-192v128h-64v-128h-192v128h-64v-448h576zM960 288h-896v-192h896z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 101,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 4,
+				"order": 5,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 101,
+				"name": "Browser 5"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 4
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 160h64v64h-64zM224 160h64v64h-64zM320 160h64v64h-64zM352 416h-192v192h192zM288 544h-64v-64h64zM608 416h-192v192h192zM544 544h-64v-64h64zM864 416h-192v192h192zM800 544h-64v-64h64zM0 32v832h1024v-832zM224 800v-64h64v64zM480 800v-64h64v64zM736 800v-64h64v64zM960 800h-96v-128h-192v128h-64v-128h-192v128h-64v-128h-192v128h-96v-448h896zM960 288h-896v-192h896z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 102,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 5,
+				"order": 6,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 102,
+				"name": "Browser 6"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 5
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 608h64v64h-64zM1024 768v-768h-1024v768h352v64h-64v64h448v-64h-64v-64zM64 64h896v448h-896zM64 704v-128h896v128zM608 832h-192v-64h192z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 103,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 6,
+				"order": 7,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 103,
+				"name": "Mac"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 6
+		},
+		{
+			"icon": {
+				"paths": [
+					"M0 768h1024v64h-1024zM960 64h-896v640h896zM896 640h-768v-512h768z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 104,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 7,
+				"order": 8,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 104,
+				"name": "Laptop"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 7
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1024 704v-640h-1024v640h480v64h-128v64h320v-64h-128v-64zM64 640v-512h896v512z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 105,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 8,
+				"order": 12,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 105,
+				"name": "Computer"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 8
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 672h64v64h-64zM192-32v960h640v-960zM768 864h-512v-448h512zM768 352h-512v-128h512zM768 160h-512v-128h512z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 106,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 9,
+				"order": 11,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 106,
+				"name": "PC Case"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 9
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 0v896h768v-896zM832 832h-640v-768h640zM480 704h64v64h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 107,
+				"grid": 0,
+				"tags": [
+					""
+				],
+				"attrs": []
+			},
+			"attrs": [],
+			"properties": {
+				"id": 10,
+				"order": 10,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 107,
+				"name": "Tablet 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 10
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 736h64v64h-64zM128 0v896h768v-896zM832 832h-640v-128h640zM832 640h-640v-576h640z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 108,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 11,
+				"order": 9,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 108,
+				"name": "Tablet 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 11
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 736h64v64h-64zM128 0v896h768v-896zM832 832h-640v-128h640zM832 640h-640v-448h640zM832 128h-640v-64h640z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 109,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 12,
+				"order": 13,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 109,
+				"name": "Tablet 3"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 12
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 736h64v64h-64zM128 0v896h768v-896zM832 832h-640v-768h640zM768 128h-512v576h512zM704 640h-384v-448h384z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 110,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 13,
+				"order": 14,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 110,
+				"name": "Tablet 4"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 13
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 640h64v64h-64zM256 64v768h512v-768zM704 768h-384v-640h384z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 111,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 14,
+				"order": 15,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 111,
+				"name": "Phone 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 14
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 672h64v64h-64zM256 64v768h512v-768zM704 768h-384v-128h384zM704 576h-384v-448h384z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 112,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 15,
+				"order": 16,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 112,
+				"name": "Phone 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 15
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 672h64v64h-64zM256 64v768h512v-768zM704 768h-384v-128h384zM704 576h-384v-320h384zM704 192h-384v-64h384z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 113,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 16,
+				"order": 20,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 113,
+				"name": "Phone 3"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 16
+		},
+		{
+			"icon": {
+				"paths": [
+					"M672 192h-320v448h320zM608 576h-192v-320h192zM480 672h64v64h-64zM224 64v768h576v-768zM736 768h-448v-640h448z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 114,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 17,
+				"order": 19,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 114,
+				"name": "Phone 4"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 17
+		},
+		{
+			"icon": {
+				"paths": [
+					"M768 384h64v64h-64zM768 256v-192h-512v192h-192v480h192v96h512v-96h192v-480zM320 128h384v128h-384zM704 768h-384v-128h384zM896 672h-128v-96h-512v96h-128v-352h768z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 115,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 18,
+				"order": 18,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 115,
+				"name": "Printer"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 18
+		},
+		{
+			"icon": {
+				"paths": [
+					"M160 64v768h704v-768zM800 768h-576v-448h576zM800 256h-576v-128h576zM288 384h64v64h-64zM416 384h64v64h-64zM544 384h64v64h-64zM288 512h64v64h-64zM416 512h64v64h-64zM544 512h64v64h-64zM288 640h64v64h-64zM416 640h64v64h-64zM544 640h64v64h-64zM672 384h64v64h-64zM672 512h64v192h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 116,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 19,
+				"order": 17,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 116,
+				"name": "Calculator"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 19
+		},
+		{
+			"icon": {
+				"paths": [
+					"M160 352h64v64h-64zM288 352h64v64h-64zM416 352h64v64h-64zM544 352h64v64h-64zM672 352h64v64h-64zM800 352h64v64h-64zM224 480h64v64h-64zM352 480h64v64h-64zM480 480h64v64h-64zM608 480h64v64h-64zM736 480h64v64h-64zM800 608h64v64h-64zM160 608h64v64h-64zM288 608h448v64h-448zM544 224v-128h-64v128h-448v576h960v-576zM928 736h-832v-448h832z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 117,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 20,
+				"order": 21,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 117,
+				"name": "Keyboard"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 20
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 352h64v128h-64zM544 224v-128h-64v128h-192v576h448v-576zM672 736h-320v-448h320z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 118,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 21,
+				"order": 22,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 118,
+				"name": "Mouse"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 21
+		},
+		{
+			"icon": {
+				"paths": [
+					"M544 256v-128h-64v128h-416v512h896v-512zM896 704h-768v-384h768zM288 640h64v-96h96v-64h-96v-96h-64v96h-96v64h96zM576 480h64v64h-64zM768 480h64v64h-64zM672 384h64v64h-64zM672 576h64v64h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 119,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 22,
+				"order": 23,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 119,
+				"name": "Controller"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 22
+		},
+		{
+			"icon": {
+				"paths": [
+					"M576 160h64v128h-64zM128 64v768h768v-768zM704 128v192h-384v-192zM832 768h-640v-640h64v256h512v-256h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 120,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 23,
+				"order": 24,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 120,
+				"name": "Disk"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 23
+		},
+		{
+			"icon": {
+				"paths": [
+					"M64 800h896v64h-896zM384 32h64v128h-64zM512 32h64v128h-64zM640 32h64v128h-64zM192 736h704v-512h-832v256h128zM256 288h576v384h-576zM128 416v-128h64v128z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 121,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 24,
+				"order": 28,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 121,
+				"name": "Cup 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 24
+		},
+		{
+			"icon": {
+				"paths": [
+					"M224 160v128h-128v384h128v256h704v-768zM224 608h-64v-256h64zM864 864h-576v-640h576zM416-32h64v128h-64zM544-32h64v128h-64zM672-32h64v128h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 122,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 25,
+				"order": 27,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 122,
+				"name": "Cup 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 25
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 192v-128h-448v128h-192v640h832v-640zM352 128h320v64h-320zM672 384h-320v-128h320zM160 256h128v128h-128zM864 768h-704v-320h128v64h64v-64h320v64h64v-64h128zM864 384h-128v-128h128z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 65,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 26,
+				"order": 26,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 65,
+				"name": "Briefcase 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 26
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 192v-128h-448v128h-192v640h832v-640zM352 128h320v64h-320zM864 768h-704v-320h128v64h64v-64h320v64h64v-64h128zM864 384h-704v-128h704z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 66,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 27,
+				"order": 25,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 66,
+				"name": "Briefcase 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 27
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 192v-128h-448v128h-192v640h832v-640zM352 128h320v64h-320zM160 768v-512h64v512zM288 768v-512h448v512zM864 768h-64v-512h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 67,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 28,
+				"order": 29,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 67,
+				"name": "Briefcase 3"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 28
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 640h64v-96h96v-64h-96v-96h-64v96h-96v64h96zM736 192v-128h-448v128h-192v640h832v-640zM352 128h320v64h-320zM864 768h-704v-512h704z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 68,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 29,
+				"order": 30,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 68,
+				"name": "First Aid"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 29
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 192v-128h-448v128h-128v640h704v-640zM352 128h320v64h-320zM800 768h-576v-512h64v64h64v-64h320v64h64v-64h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 69,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 30,
+				"order": 31,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 69,
+				"name": "Shopping Bag"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 30
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 256v-128h-192v-64h-64v64h-192v128h-192v256h64v320h704v-320h64v-256zM672 192v64h-128v-64zM352 192h128v64h-128zM160 320h320v128h-320zM224 768v-256h256v256zM800 768h-256v-256h256zM864 448h-320v-128h320z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 70,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 31,
+				"order": 32,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 70,
+				"name": "Gift"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 31
+		},
+		{
+			"icon": {
+				"paths": [
+					"M288 480h448v64h-448zM288 608h448v64h-448zM288 352h448v64h-448zM736 64v-64h-64v64h-128v-64h-64v64h-128v-64h-64v64h-160v832h768v-832zM832 832h-640v-704h96v64h64v-64h128v64h64v-64h128v64h64v-64h96z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 71,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 32,
+				"order": 36,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 71,
+				"name": "Notepad 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 32
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 64v-64h-64v64h-128v-64h-64v64h-128v-64h-64v64h-160v832h768v-832zM832 832h-640v-704h96v64h64v-64h128v64h64v-64h128v64h64v-64h96z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 72,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 33,
+				"order": 35,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 72,
+				"name": "Notepad 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 33
+		},
+		{
+			"icon": {
+				"paths": [
+					"M288 384h64v64h-64zM416 512h320v64h-320zM288 512h64v64h-64zM416 640h320v64h-320zM288 640h64v64h-64zM416 384h320v64h-320zM736 128v-64h-192v-64h-64v64h-192v64h-160v768h768v-768zM352 128h320v64h-320zM832 832h-640v-640h96v64h448v-64h96z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 73,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 34,
+				"order": 34,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 73,
+				"name": "List 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 34
+		},
+		{
+			"icon": {
+				"paths": [
+					"M288 512h448v64h-448zM288 640h224v64h-224zM288 384h448v64h-448zM736 128v-64h-192v-64h-64v64h-192v64h-160v768h768v-768zM352 128h320v64h-320zM832 832h-640v-640h96v64h448v-64h96z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 74,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 35,
+				"order": 33,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 74,
+				"name": "List 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 35
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 128v-64h-192v-64h-64v64h-192v64h-160v768h768v-768zM352 128h320v64h-320zM832 832h-640v-640h96v64h448v-64h96z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 75,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 36,
+				"order": 37,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 75,
+				"name": "List 3"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 36
+		},
+		{
+			"icon": {
+				"paths": [
+					"M384 352h384v64h-384zM384 224h384v64h-384zM128 32v832h768v-832zM192 800v-704h64v704zM832 800h-512v-704h512z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 76,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 37,
+				"order": 38,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 76,
+				"name": "Book"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 37
+		},
+		{
+			"icon": {
+				"paths": [
+					"M288 512h64v64h-64zM416 512h64v64h-64zM544 512h64v64h-64zM672 640h64v64h-64zM288 640h64v64h-64zM416 640h64v64h-64zM544 640h64v64h-64zM672 512h64v64h-64zM736 64v-64h-64v64h-320v-64h-64v64h-192v832h832v-832zM864 832h-704v-448h704zM864 320h-704v-192h128v64h64v-64h320v64h64v-64h128z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 77,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 38,
+				"order": 39,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 77,
+				"name": "Calendar 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 38
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 64v-64h-64v64h-320v-64h-64v64h-192v832h832v-832zM864 832h-704v-448h704zM864 320h-704v-192h128v64h64v-64h320v64h64v-64h128z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 78,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 39,
+				"order": 40,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 78,
+				"name": "Calendar 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 39
+		},
+		{
+			"icon": {
+				"paths": [
+					"M160-32v160h-64v64h64v128h-64v64h64v128h-64v64h64v128h-64v64h64v160h768v-960zM224 864v-96h64v-64h-64v-128h64v-64h-64v-128h64v-64h-64v-128h64v-64h-64v-96h512v832zM864 864h-64v-832h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 79,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 40,
+				"order": 44,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 79,
+				"name": "Notebook"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 40
+		},
+		{
+			"icon": {
+				"paths": [
+					"M320-64v1024h384v-1024zM640 896h-256v-96h128v-64h-128v-64h64v-64h-64v-64h128v-64h-128v-64h64v-64h-64v-64h128v-64h-128v-64h64v-64h-64v-96h256z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 80,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 41,
+				"order": 43,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 80,
+				"name": "Ruler"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 41
+		},
+		{
+			"icon": {
+				"paths": [
+					"M576 0v-64h-256v1024h256v-896h64v192h64v-256zM512 896h-128v-512h128zM512 320h-128v-320h128z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 81,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 42,
+				"order": 42,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 81,
+				"name": "Pen 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 42
+		},
+		{
+			"icon": {
+				"paths": [
+					"M640 0h-64v-64h-256v960h96v64h64v-64h96v-832h64v192h64v-256zM512 832h-128v-704h128zM512 64h-128v-64h128z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 82,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 43,
+				"order": 41,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 82,
+				"name": "Pen 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 43
+		},
+		{
+			"icon": {
+				"paths": [
+					"M288 352h448v64h-448zM288 480h448v64h-448zM288 608h224v64h-224zM288 224h448v64h-448zM128 32v832h768v-832zM832 800h-640v-704h640z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 83,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 44,
+				"order": 45,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 83,
+				"name": "Document 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 44
+		},
+		{
+			"icon": {
+				"paths": [
+					"M288 480h448v64h-448zM288 608h448v64h-448zM128 32v832h768v-832zM832 800h-640v-704h640zM736 224h-448v192h448zM672 352h-320v-64h320z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 84,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 45,
+				"order": 50,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 84,
+				"name": "Document 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 45
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 32v832h768v-832zM832 800h-640v-704h640zM288 224h192v64h-192zM288 352h192v64h-192zM288 480h448v64h-448zM288 608h448v64h-448zM736 224h-192v192h192zM672 352h-64v-64h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 85,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 46,
+				"order": 51,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 85,
+				"name": "Document 3"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 46
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 32v832h768v-832zM704 96v320h-384v-320zM192 96h64v64h-64zM192 224h64v64h-64zM192 352h64v64h-64zM192 480h64v64h-64zM192 608h64v64h-64zM192 800v-64h64v64zM320 800v-320h384v320zM832 800h-64v-64h64zM832 672h-64v-64h64zM832 544h-64v-64h64zM832 416h-64v-64h64zM832 288h-64v-64h64zM832 160h-64v-64h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 86,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 47,
+				"order": 56,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 86,
+				"name": "Film"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 47
+		},
+		{
+			"icon": {
+				"paths": [
+					"M256 32v128h-128v704h640v-128h128v-704zM704 800h-512v-576h64v512h448zM832 672h-512v-576h512zM768 160h-384v384h384zM704 480h-256v-256h256z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 87,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 48,
+				"order": 46,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 87,
+				"name": "Gallery"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 48
+		},
+		{
+			"icon": {
+				"paths": [
+					"M672 480v-64h-128v-128h-64v192zM160 96v704h704v-704zM800 736h-576v-576h576z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 88,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 49,
+				"order": 49,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 88,
+				"name": "Clock"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 49
+		},
+		{
+			"icon": {
+				"paths": [
+					"M608 320h64v64h-64zM352 320h64v64h-64zM96-64v1024h64v-64h704v64h64v-1024zM160 0h320v704h-320zM864 832h-704v-64h704zM864 704h-320v-704h320z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 89,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 50,
+				"order": 52,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 89,
+				"name": "Cupboard"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 50
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 128h64v64h-64zM480 384h64v64h-64zM64 0v896h64v-64h768v64h64v-896zM896 768h-768v-192h768zM896 512h-768v-192h768zM896 256h-768v-192h768zM480 640h64v64h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 90,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 51,
+				"order": 55,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 90,
+				"name": "Drawer"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 51
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 256h64v64h-64zM480 512h64v64h-64zM64 0v896h64v-64h768v64h64v-896zM896 768h-768v-704h768zM832 128h-640v576h640zM768 640h-512v-192h512zM768 384h-512v-192h512z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 48,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 52,
+				"order": 47,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 48,
+				"name": "Dresser"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 52
+		},
+		{
+			"icon": {
+				"paths": [
+					"M832 288v-192h-640v192h-128v448h128v64h64v-64h512v64h64v-64h128v-448zM192 672h-64v-320h64zM768 672h-512v-128h512zM768 480h-512v-320h512zM896 672h-64v-320h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 49,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 53,
+				"order": 48,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 49,
+				"name": "Chair"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 53
+		},
+		{
+			"icon": {
+				"paths": [
+					"M896 320v-192h-768v192h-128v384h128v64h64v-64h640v64h64v-64h128v-384zM544 192h288v320h-288zM192 192h288v320h-288zM960 640h-896v-256h64v192h768v-192h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 50,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 54,
+				"order": 53,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 50,
+				"name": "Sofa"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 54
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 224h64v64h-64zM736 416h64v64h-64zM0 128v64h64v576h64v-448h448v256h320v192h64v-576h64v-64zM576 256h-448v-64h448zM896 512h-256v-128h256zM896 320h-256v-128h256z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 51,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 55,
+				"order": 54,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 51,
+				"name": "Desk"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 55
+		},
+		{
+			"icon": {
+				"paths": [
+					"M64 192v64h64v448h64v-256h640v256h64v-448h64v-64zM832 384h-640v-128h640zM480 288h64v64h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 52,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 56,
+				"order": 72,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 52,
+				"name": "Table"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 56
+		},
+		{
+			"icon": {
+				"paths": [
+					"M672 416h64v64h-64zM864 864v-896h-704v896h-64v64h832v-64zM224 864v-832h576v832z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 53,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 57,
+				"order": 65,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 53,
+				"name": "Door"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 57
+		},
+		{
+			"icon": {
+				"paths": [
+					"M864 672v-640h-704v640h-64v192h832v-192zM544 416h256v256h-256zM800 96v256h-256v-256zM224 96h256v256h-256zM224 416h256v256h-256zM864 800h-704v-64h704z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 54,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 58,
+				"order": 64,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 54,
+				"name": "Window"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 58
+		},
+		{
+			"icon": {
+				"paths": [
+					"M0 32v832h1024v-832zM768 96v128h-512v-128zM64 96h128v128h-128zM64 288h416v128h-416zM768 608h-512v-128h512zM64 480h128v128h-128zM64 800v-128h416v128zM960 800h-416v-128h416zM960 608h-128v-128h128zM960 416h-416v-128h416zM960 224h-128v-128h128z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 55,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 59,
+				"order": 57,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 55,
+				"name": "Wall"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 59
+		},
+		{
+			"icon": {
+				"paths": [
+					"M352 320h64v384h-64zM480 320h64v384h-64zM608 320h64v384h-64zM736 128v-128h-448v128h-192v64h64v704h704v-704h64v-64zM352 64h320v64h-320zM800 832h-576v-640h576z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 56,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 60,
+				"order": 71,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 56,
+				"name": "Trash 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 60
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 128v-128h-448v128h-192v64h64v704h704v-704h64v-64zM352 64h320v64h-320zM800 832h-576v-640h576z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 57,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 61,
+				"order": 66,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 57,
+				"name": "Trash 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 61
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 544h64v64h-64zM736 352v-256h-448v256h-128v448h704v-448zM352 160h320v192h-320zM800 736h-576v-320h576z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 33,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 62,
+				"order": 63,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 33,
+				"name": "Locked"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 62
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 352v-256h-448v192h64v-128h320v192h-512v448h704v-448zM800 736h-576v-320h576zM480 544h64v64h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 34,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 63,
+				"order": 58,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 34,
+				"name": "Unlocked"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 63
+		},
+		{
+			"icon": {
+				"paths": [
+					"M480 576h64v-96h96v-64h-96v-96h-64v96h-96v64h96zM224 160v576h576v-576zM736 672h-448v-448h448z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 35,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 64,
+				"order": 70,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 35,
+				"name": "Plus"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 64
+		},
+		{
+			"icon": {
+				"paths": [
+					"M384 416h256v64h-256zM224 160v576h576v-576zM736 672h-448v-448h448z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 36,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 65,
+				"order": 67,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 36,
+				"name": "Minus"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 65
+		},
+		{
+			"icon": {
+				"paths": [
+					"M832 352v-128h-704v448h704v-128h64v-192zM768 608h-576v-320h576zM256 352h64v192h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 37,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 66,
+				"order": 62,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 37,
+				"name": "Battery 1"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 66
+		},
+		{
+			"icon": {
+				"paths": [
+					"M832 352v-128h-704v448h704v-128h64v-192zM768 608h-576v-320h576zM256 352h64v192h-64zM384 352h64v192h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 38,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 67,
+				"order": 59,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 38,
+				"name": "Battery 2"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 67
+		},
+		{
+			"icon": {
+				"paths": [
+					"M832 352v-128h-704v448h704v-128h64v-192zM768 608h-576v-320h576zM256 352h64v192h-64zM384 352h64v192h-64zM512 352h64v192h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 39,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 68,
+				"order": 69,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 39,
+				"name": "Battery 3"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 68
+		},
+		{
+			"icon": {
+				"paths": [
+					"M832 352v-128h-704v448h704v-128h64v-192zM768 608h-576v-320h576zM256 352h64v192h-64zM384 352h64v192h-64zM512 352h64v192h-64zM640 352h64v192h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 40,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 69,
+				"order": 68,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 40,
+				"name": "Battery 4"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 69
+		},
+		{
+			"icon": {
+				"paths": [
+					"M896 256v-192h-192v64h-96v-64h-192v64h-96v-64h-192v192h64v96h-64v192h64v96h-64v192h192v-64h96v64h192v-64h96v64h192v-192h-64v-96h64v-192h-64v-96zM768 128h64v64h-64zM480 128h64v64h-64zM192 128h64v64h-64zM192 416h64v64h-64zM256 768h-64v-64h64zM544 768h-64v-64h64zM832 768h-64v-64h64zM832 480h-64v-64h64zM768 352h-64v192h64v96h-64v64h-96v-64h-192v64h-96v-64h-64v-96h64v-192h-64v-96h64v-64h96v64h192v-64h96v64h64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 41,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 70,
+				"order": 61,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 41,
+				"name": "Transform"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 70
+		},
+		{
+			"icon": {
+				"paths": [
+					"M896 256v-192h-192v64h-384v-64h-192v192h64v384h-64v192h192v-64h384v64h192v-192h-64v-384zM768 128h64v64h-64zM192 128h64v64h-64zM256 768h-64v-64h64zM832 768h-64v-64h64zM768 640h-64v64h-384v-64h-64v-384h64v-64h384v64h64zM544 320h-64v96h-96v64h96v96h64v-96h96v-64h-96z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 42,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 71,
+				"order": 60,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 42,
+				"name": "Resize"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 71
+		},
+		{
+			"icon": {
+				"paths": [
+					"M160 288h192v-192h-192zM224 160h64v64h-64zM416 288h192v-192h-192zM480 160h64v64h-64zM672 96v192h192v-192zM800 224h-64v-64h64zM160 544h192v-192h-192zM224 416h64v64h-64zM416 544h192v-192h-192zM480 416h64v64h-64zM672 544h192v-192h-192zM736 416h64v64h-64zM160 800h192v-192h-192zM224 672h64v64h-64zM416 800h192v-192h-192zM480 672h64v64h-64zM672 800h192v-192h-192zM736 672h64v64h-64z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 43,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 72,
+				"order": 73,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 43,
+				"name": "Grid"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 72
+		},
+		{
+			"icon": {
+				"paths": [
+					"M160 96v192h704v-192zM800 224h-576v-64h576zM160 544h704v-192h-704zM224 416h576v64h-576zM160 800h704v-192h-704zM224 672h576v64h-576z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 44,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 73,
+				"order": 76,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 44,
+				"name": "Menu"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 73
+		},
+		{
+			"icon": {
+				"paths": [
+					"M288 672h448v-448h-448zM352 288h320v320h-320zM224 608h-64v192h192v-64h-128zM224 160h128v-64h-192v192h64zM800 736h-128v64h192v-192h-64zM672 96v64h128v128h64v-192z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 45,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 74,
+				"order": 77,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 45,
+				"name": "Fullscreen"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 74
+		},
+		{
+			"icon": {
+				"paths": [
+					"M416 96h64v64h-64zM160 352h64v64h-64zM160 480h64v64h-64zM800 352h64v64h-64zM800 480h64v64h-64zM544 96h64v64h-64zM416 736h64v64h-64zM544 736h64v64h-64zM224 608h-64v192h192v-64h-128zM160 288h64v-128h128v-64h-192zM800 736h-128v64h192v-192h-64zM672 96v64h128v128h64v-192z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 46,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 75,
+				"order": 80,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 46,
+				"name": "Outline"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 75
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 672h704v64h-704zM128 544h384v64h-384zM128 416h640v64h-640zM128 288h768v64h-768zM128 160h512v64h-512z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 47,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 76,
+				"order": 74,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 47,
+				"name": "Align Left"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 76
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 160h768v64h-768zM128 672h768v64h-768zM320 288h384v64h-384zM320 544h384v64h-384zM192 416h640v64h-640z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 58,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 77,
+				"order": 75,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 58,
+				"name": "Align Center"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 77
+		},
+		{
+			"icon": {
+				"paths": [
+					"M192 672h704v64h-704zM512 544h384v64h-384zM256 416h640v64h-640zM128 288h768v64h-768zM384 160h512v64h-512z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 59,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 78,
+				"order": 78,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 59,
+				"name": "Align Right"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 78
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 160h768v64h-768zM128 288h768v64h-768zM128 416h768v64h-768zM128 544h768v64h-768zM128 672h768v64h-768z"
+				],
+				"isMulticolor": false,
+				"defaultCode": 60,
+				"grid": 0,
+				"attrs": [],
+				"tags": [
+					""
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"id": 79,
+				"order": 79,
+				"ligatures": "",
+				"prevSize": 32,
+				"code": 60,
+				"name": "Align Justify"
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 79
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "Pixelvicon"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "Pixelvicon",
+				"majorVersion": 1,
+				"minorVersion": 0
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"embed": false
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215,
+			"classSelector": ".icon"
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16
+	}
+}
