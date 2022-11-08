@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	alacritty
+	wezterm
 
 # make sxhkd reload its configuration files:
 super + Escape
@@ -39,7 +39,6 @@ super + {t,shift + t,shift + @space,shift + f}
 #	bspc node -g {marked,locked,sticky,private}
 
 #
-# focus/swap
 #
 
 # focus the node in the given direction
@@ -107,6 +106,9 @@ super + shift + F10
 super + shift + F9
 	pactl set-sink-volume @DEFAULT_SINK@ 100%
 
+super + shift + l
+	$HOME/.config/i3/lock.sh
+
 ### Rofi keybinds
 super + d
 	rofi -show drun
@@ -120,7 +122,7 @@ super + shift + e
 	rofi -show powermenu -modi powermenu:~/.config/rofi/rofi-power-menu
 
 # Window Switcher
-super + Tab
+alt + Tab
 	rofi -show window
 
 
@@ -139,3 +141,12 @@ XF86AudioNext
 
 XF86AudioPlay
 	playerctl play-pause
+
+XF86AudioRaiseVolume
+	pactl set-sink-volume @DEFAULT_SINK@ +5%
+
+XF86AudioLowerVolume
+	pactl set-sink-volume @DEFAULT_SINK@ -5%
+
+XF86AudioMute
+	pactl set-sink-mute @DEFAULT_SINK@ toggle
