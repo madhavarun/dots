@@ -1,4 +1,9 @@
 # Ziro
+## How to install
+- Clone the git repository
+- Move the Ziro theme folder to `~/.config/spicetify/Themes`
+- Select the theme by editing the `current_theme` line in your spicetify config file or by running `spicetify config current_theme Ziro
+- Run `spicetify apply` in a terminal
 ## Screenshots
 ### Blue Dark
 ![Album](https://raw.githubusercontent.com/schnensch0/ziro/main/preview/album-blue-dark.png)
