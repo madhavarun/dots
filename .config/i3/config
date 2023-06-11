@@ -17,7 +17,7 @@ set $alt Mod1
 font pango:FantasqueSansMono Nerd Font 8
 
 # Lock Screen
-exec --no-startup-id xss-lock -- $HOME/.config/i3/lock.sh 
+exec --no-startup-id xss-lock -- $HOME/scripts/i3_lock.sh 
 bindsym $mod+shift+l exec --no-startup-id loginctl lock-session ${XDG_SESSION_ID-}
 
 

@@ -10,7 +10,7 @@
   offset = 8x35
   origin = top-right
 
-  frame_width = 2
+  frame_width = 3
   separator_height = 2
   frame_color = "#161320"
   separator_color = "#161320"
@@ -33,7 +33,7 @@
   history_length = 6
   title = Dunst
   class = Dunst
-  corner_radius = 8
+  corner_radius = 12
   transparency = 10
 
   mouse_left_click = close_current

@@ -21,7 +21,7 @@
 *color4: #89B4FA
 *color12: #89B4FA
 
-! magenta
+! magenta/pink
 *color5: #F5C2E7
 *color13: #F5C2E7
 
@@ -32,3 +32,5 @@
 ! white
 *color7: #BAC2DE
 *color15: #A6ADC8
+
+Xcursor.theme: Sweet-cursors
