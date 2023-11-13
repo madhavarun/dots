@@ -5,17 +5,22 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+# cs50 stuff
+export LDFLAGS=-lcs50
+export LD_LIBRARY_PATH=/usr/local/lib
+
+
 #export PATH="$PATH:$HOME/.local/bin"
 export BAT_THEME="Catppuccin-mocha"
-export LD_LIBRARY_PATH=/usr/local/lib
 alias ls='exa --icons --grid'
 alias tree='exa --tree --icons'
-alias xev=$HOME/.config/sxhkd/xev-keys.sh
+alias xev=$HOME/scripts/extra/xev-keys.sh
 alias uwu="cowsay uwu && sudo"
 alias pacman='sudo pacman'
 alias {:q,q!,:q!}='exit'
 alias la='ls -a'
 alias ll='ls -l'
+alias icat='kitten icat'
 #alias sudo='sudo -p "  "'
 
 #alias vim="nvim"

@@ -34,7 +34,7 @@ return require('packer').startup(function(use)
 	})
 
 	use({'nvim-treesitter/nvim-treesitter'}, {run = ':TSUpdate'})
-	use({'HiPhish/nvim-ts-rainbow2'})
+	use({'HiPhish/rainbow-delimiters.nvim'})
 
 	-- LSP stuff
 	use {
@@ -93,5 +93,14 @@ return require('packer').startup(function(use)
 	use {"akinsho/toggleterm.nvim", tag = '*', config = function()
   		require("toggleterm").setup()
 	end}
+
+	-- pets!
+	use({
+		"giusgad/pets.nvim",
+		requires = {
+			"giusgad/hologram.nvim",
+			"MunifTanjim/nui.nvim",
+		}
+	})
 
 end)

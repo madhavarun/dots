@@ -1,0 +1,71 @@
+#!/usr/bin/env python3
+
+import sys
+import subprocess
+import os
+import time
+import shutil
+
+# set to folder where music is downloaded
+MUSIC_DIR = "/home/aurniox/Music/Extra"
+
+# clear old music
+if sys.argv[1] == 'clear':
+    shutil.rmtree(MUSIC_DIR)
+    os.mkdir(MUSIC_DIR)
+    subprocess.run(["mpc", "update"])
+    exit()
+
+url = sys.argv[1]
+title = ""
+
+# identify source of download
+if "spotify" in url:
+    source = "spotify"
+elif "youtube" in url:
+    source = "youtube"
+elif "soundcloud" in url:
+    source = "soundcloud"
+else:
+    print("Invalid Source")
+    exit(1)
+
+os.chdir(MUSIC_DIR)
+
+# Soundcloud download, requires https://github.com/flyingrub/scdl
+if source == "soundcloud":
+    if '/sets/' in url:
+        title = url.split('/sets/')[1]
+    else:
+        title = url.split('/')[4]
+
+    os.mkdir(title)
+    subprocess.run(["scdl", "--path", title, "-l", url])
+
+# Youtube download, requires https://github.com/yt-dlp/yt-dlp
+elif source == "youtube":
+    if "playlist" in url:
+        subprocess.run(["yt-dlp", "-x", f"-o{MUSIC_DIR}/%(playlist_title)s/%(title)s.%(ext)s", url])
+        title = subprocess.run(["yt-dlp", "--print=playlist_title", "--no-warning", "--skip-download", "-I1", url], capture_output=True).stdout.decode().strip()
+
+    else:
+        subprocess.run(["yt-dlp", "-x", f"-o{MUSIC_DIR}/%(title)s.%(ext)s", url])
+        title = subprocess.run(["yt-dlp", "--print=title", "--no-warning", "--skip-download", url], capture_output=True).stdout.decode().strip() + ".opus"
+
+# Spotify download (192kbps), requires https://github.com/SathyaBhat/spotify-dl
+elif source == "spotify":
+    os.environ["SPOTIPY_CLIENT_ID"] = "<your client id>"
+    os.environ["SPOTIPY_CLIENT_SECRET"] = "<your client secret>"
+    # couldnt find a way to grab title using spotifydl, downloads music to this directory
+    title = input("Title: ")
+
+    os.mkdir(title)
+    subprocess.run(["spotify_dl", "-l", url, f"-o{title}"])
+
+else:
+    print("Invalid source")
+
+# update mpd database and add new songs to main playlist
+subprocess.run(["mpc", "update"])
+time.sleep(1)
+subprocess.run(["mpc", "add", f"Extra/{title}"])

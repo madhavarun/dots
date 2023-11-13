@@ -1,0 +1,14 @@
+#!/bin/sh
+# script taken from archwiki, https://wiki.archlinux.org/title/Ncmpcpp#With_album_art
+
+XDG_CONFIG_HOME=/home/aurniox/.config
+
+music_dir="$HOME/Music"
+previewdir="$XDG_CONFIG_HOME/ncmpcpp/previews"
+filename="$(mpc --format "$music_dir"/%file% current)"
+previewname="$previewdir/$(mpc --format %album% current | base64).png"
+
+# changed to generate larger scale, only one preview image
+ffmpeg -y -i "$filename" -an -vf scale=512:512 "$previewdir/current_icon.png" > /dev/null 2>&1
+
+notify-send -r 5 "Now Playing" "$(mpc --format '%title% \n%artist% - %album%' current)" -i "$previewdir/current_icon.png"

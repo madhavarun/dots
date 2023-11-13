@@ -34,7 +34,7 @@ require("catppuccin").setup({
 		nvimtree = true,
 		telescope = true,
 		treesitter = true,
-		ts_rainbow = true,
+		rainbow_delimiters = true,
 		indent_blankline = {
 			enabled = false,
 			colored_indent_levels = false,

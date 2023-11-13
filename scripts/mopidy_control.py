@@ -17,12 +17,38 @@ def checkIfProcessRunning(processName):
             pass
     return False;
 
-if checkIfProcessRunning("mopidy"):
+state = "";
+volume = "";
+time = ["",""]
+
+if checkIfProcessRunning("mpd"):
+    # status
     process = subprocess.run(["mpc", "status", "%state%"], capture_output=True)
-    if process.stdout == b'paused\n':
-        print("Paused")
+    if process.stdout.decode().strip() == 'paused':
+        state = "Paused"
+    elif process.stdout.decode().strip() == 'playing':
+        state = "Playing"
     else:
-        print("Playing")
+        state = "Starting"
+
+    # volume
+    process = subprocess.run(["mpc", "status", "%volume%"], capture_output=True)
+    volume = process.stdout.decode()
+
+    # remaining time
+    process = subprocess.run(["mpc", "status", "%currenttime%"], capture_output=True)
+    time[0] = process.stdout.decode()
+
+    process = subprocess.run(["mpc", "status", "%totaltime%"], capture_output=True)
+    time[1] = process.stdout.decode()
+
+    time_counter = time[0].strip()+"/"+time[1].strip()
+
+    if time[0].strip() == "0:00" and time[1].strip() == "0:00":
+        time_counter = ""
+
+    
+    print(f"{state} [{volume.strip()}] {time_counter}")
 
 
 else:

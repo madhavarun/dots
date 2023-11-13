@@ -19,15 +19,5 @@ require'nvim-treesitter.configs'.setup {
 		-- Instead of true it can also be a list of languages
 		additional_vim_regex_highlighting = false,
 	},
-	-- rainbow curly brackets
-	rainbow = {
-		enable = true,
-		-- list of languages to disable in
-		disable = {},
-		-- query to use for finding delimiters
-		query = "rainbow-parens",
-		-- highlight the entire buffer at once
-		strategy = require('ts-rainbow').strategy.global,
-	}
 }
 
